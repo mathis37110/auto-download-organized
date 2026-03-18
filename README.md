@@ -1,2 +1,11 @@
 # auto-download-organized
-Scripte Python qui trie automatiquement les fichier du dossier Téléchargement
+
+Petit script Python qui trie automatiquement les fichiers du dossier Téléchargements.
+
+## Types supportés
+- Images
+- Vidéos
+- Documents
+
+## Langage
+Python
